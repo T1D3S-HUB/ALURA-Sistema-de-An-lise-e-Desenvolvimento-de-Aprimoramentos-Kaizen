@@ -1,0 +1,2 @@
+# ALURA-Sistema-de-An-lise-e-Desenvolvimento-de-Aprimoramentos-Kaizen
+O ALURA (Sistema de Análise e Desenvolvimento de Aprimoramentos) é uma ferramenta protótipo desenvolvida em Python para otimizar o processo de coleta e triagem de ideias Kaizen (melhoria contínua) em um ambiente corporativo. Tradicionalmente, a submissão e avaliação de ideias podem ser manuais ou enfrentar desafios na clareza da descrição 
